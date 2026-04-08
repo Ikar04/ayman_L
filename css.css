@@ -1,0 +1,22 @@
+p {
+    font-size: 25px
+}
+
+h1 {
+    font-size: 40px;
+    color: aqua;
+}
+
+button {
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    background-color: beige;
+    border-radius: 30px;
+}
+
+.inpt {
+    font-size: medium;
+    color: black;
+    background-color: aquamarine;
+    border-radius: 30px;
+}
